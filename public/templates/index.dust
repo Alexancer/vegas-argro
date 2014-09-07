@@ -1,0 +1,7 @@
+{>"layouts/master" /}
+{<body}
+    {>"common/business-header" /}
+    <div ng-view></div>
+{/body}
+
+

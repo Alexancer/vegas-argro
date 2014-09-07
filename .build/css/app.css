@@ -1,0 +1,158 @@
+/* line 1, /home/alexanderch/projects/vegas-ago/css/app */
+body {
+  background: url("../i/bg.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+/* line 8, /home/alexanderch/projects/vegas-ago/css/app */
+.dropdown-submenu {
+  position: relative;
+}
+/* line 12, /home/alexanderch/projects/vegas-ago/css/app */
+.dropdown-submenu > .dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  -webkit-border-radius: 0 6px 6px 6px;
+  -moz-border-radius: 0 6px 6px 6px;
+  border-radius: 0 6px 6px 6px;
+}
+/* line 23, /home/alexanderch/projects/vegas-ago/css/app */
+.dropdown-submenu:hover > .dropdown-menu {
+  display: block;
+}
+/* line 27, /home/alexanderch/projects/vegas-ago/css/app */
+.dropdown-submenu > a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+/* line 41, /home/alexanderch/projects/vegas-ago/css/app */
+.dropdown-submenu:hover > a:after {
+  border-left-color: #ffffff;
+}
+/* line 45, /home/alexanderch/projects/vegas-ago/css/app */
+.dropdown-submenu .pull-left {
+  float: none;
+}
+/* line 49, /home/alexanderch/projects/vegas-ago/css/app */
+.dropdown-submenu.pull-left > .dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  -webkit-border-radius: 6px 0 6px 6px;
+  -moz-border-radius: 6px 0 6px 6px;
+  border-radius: 6px 0 6px 6px;
+}
+/* line 56, /home/alexanderch/projects/vegas-ago/css/app */
+.navbar {
+  margin: 0 0 0 0;
+}
+/* line 60, /home/alexanderch/projects/vegas-ago/css/app */
+.business-header {
+  height: 250px;
+  background: url("../i/hbg.png") center center no-repeat;
+  background-size: cover;
+}
+/* line 66, /home/alexanderch/projects/vegas-ago/css/app */
+.logo {
+  height: 130px;
+  width: 403px;
+  background: url("../i/logo.png") center center no-repeat;
+  background-size: cover;
+  margin-left: -50px;
+}
+/* line 74, /home/alexanderch/projects/vegas-ago/css/app */
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  background-color: #1b701b;
+  color: #ffffff;
+}
+/* line 85, /home/alexanderch/projects/vegas-ago/css/app */
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+}
+/* line 88, /home/alexanderch/projects/vegas-ago/css/app */
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: red;
+}
+/* line 93, /home/alexanderch/projects/vegas-ago/css/app */
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  background-color: #1b701b;
+  color: #ffffff;
+}
+/* line 104, /home/alexanderch/projects/vegas-ago/css/app */
+.dropdown-menu {
+  background-color: #1b701b;
+  color: red;
+}
+/* line 109, /home/alexanderch/projects/vegas-ago/css/app */
+.dropdown-menu > li > a {
+  color: #ffffff;
+}
+/* line 112, /home/alexanderch/projects/vegas-ago/css/app */
+.dropdown-menu {
+  z-index: 3000;
+}
+/* line 115, /home/alexanderch/projects/vegas-ago/css/app */
+.search-image {
+  height: 36px;
+  min-height: 36px;
+  min-width: 36px;
+  width: 36px;
+  background: url("../i/search.png") center center no-repeat;
+  background-size: cover;
+}
+/* enable absolute positioning */
+/* line 125, /home/alexanderch/projects/vegas-ago/css/app */
+.inner-addon {
+  position: relative;
+}
+/* style glyph */
+/* line 130, /home/alexanderch/projects/vegas-ago/css/app */
+.inner-addon .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+/* align glyph */
+/* line 137, /home/alexanderch/projects/vegas-ago/css/app */
+.left-addon .glyphicon {
+  right: 0px;
+}
+/* line 138, /home/alexanderch/projects/vegas-ago/css/app */
+.right-addon .glyphicon {
+  left: 0px;
+}
+/* add padding  */
+/* line 141, /home/alexanderch/projects/vegas-ago/css/app */
+.left-addon input {
+  padding-left: 30px;
+}
+/* line 142, /home/alexanderch/projects/vegas-ago/css/app */
+.right-addon input {
+  padding-right: 30px;
+}
+/* line 144, /home/alexanderch/projects/vegas-ago/css/app */
+.glyphicon {
+  top: 4px;
+  margin-left: 12px;
+}
+/* line 148, /home/alexanderch/projects/vegas-ago/css/app */
+.col-lg-12 {
+  position: static;
+}

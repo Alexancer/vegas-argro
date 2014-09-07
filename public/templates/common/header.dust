@@ -1,0 +1,156 @@
+<nav class="navbar navbar-default" role="navigation" style="opacity: 0.8; background-color: #0e370e; border: 1px solid #0e370e">
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse navbar-ex1-collapse text-center">
+        <ul class="nav navbar-nav">
+            <li class="{index}">
+                <a href="/">Головна</a>
+            </li>
+            <li class="dropdown">
+                <a href="" class="dropdown-toggle" data-toggle="dropdown">
+                    Товатри <b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu">
+                    <li class="dropdown-submenu">
+                        <a tabindex="-1" href="#">Субстрати</a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="#/substrates/professional">Професійні субстрати</a>
+                            </li>
+                            <li>
+                                <a tabindex="-1" href="#">Хоббі субстрати</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown-submenu">
+                        <a tabindex="-1" href="#">Добрива</a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a tabindex="-1" href="#">Рідкі</a>
+                            </li>
+                            <li>
+                                <a tabindex="-1" href="#">Кристалічні</a>
+                            </li>
+                            <li>
+                                <a tabindex="-1" href="#">Гранульовані</a>
+                            </li>
+                            <li>
+                                <a tabindex="-1" href="#">Регулятори, стимулятори росту</a>
+                            </li>
+                            <li>
+                                <a tabindex="-1" href="#">Органічні добрива</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown-submenu">
+                        <a tabindex="-1" href="#">Насіння</a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a tabindex="-1" href="#">Парникове насіння</a>
+                            </li>
+                            <li>
+                                <a tabindex="-1" href="#">Газонна трава</a>
+                            </li>
+                            <li>
+                                <a tabindex="-1" href="#">Сидерати, кормові трави</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown-submenu">
+                        <a tabindex="-1" href="#">Засоби захисту рослин</a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a tabindex="-1" href="#">Протруйники</a>
+                            </li>
+                            <li>
+                                <a tabindex="-1" href="#">Гербіциди</a>
+                            </li>
+                            <li>
+                                <a tabindex="-1" href="#">Інсектициди</a>
+                            </li>
+                            <li>
+                                <a tabindex="-1" href="#">Фунгідици</a>
+                            </li>
+                            <li>
+                                <a tabindex="-1" href="#">Прилипачі</a>
+                            </li>
+                            <li>
+                                <a tabindex="-1" href="#">Роденцитиди</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            Цибулькові
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            Саджанці
+                        </a>
+                    </li>
+                    <li class="dropdown-submenu">
+                        <a tabindex="-1" href="#">Посдковий матеріал</a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a tabindex="-1" href="#">Картопля</a>
+                            </li>
+                            <li>
+                                <a tabindex="-1" href="#">Цибуля сівок</a>
+                            </li>
+                            <li>
+                                <a tabindex="-1" href="#">Зернові</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown-submenu">
+                        <a tabindex="-1" href="#">Інші товари</a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a tabindex="-1" href="#">Репіленти</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#">Хіт продажу</a>
+            </li>
+            <li>
+                <a href="" data-toggle="dropdown">
+                    Інформація<b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a tabindex="-1" href="#">Каталог продукції</a>
+                    </li>
+                    <li>
+                        <a tabindex="-1" href="#">Поради агронома</a>
+                    </li>
+                    <li>
+                        <a tabindex="-1" href="#/info/calendar">Посівний календар</a>
+                    </li>
+                    <li>
+                        <a tabindex="-1" href="#">Новини компанії</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#/provider">Постачальники</a>
+            </li>
+            <li class="{contacts}">
+                <a href="#" data-toggle="dropdown">
+                    Контакти<b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a tabindex="-1" href="/contacts">Контактні дані</a>
+                    </li>
+                    <li>
+                        <a tabindex="-1" href="#">Запит на прайси</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div><!-- /.navbar-collapse -->
+</nav>

@@ -1,0 +1,16 @@
+{
+  "name": "vegas-agro",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "latest",
+    "angularjs": "~1.2.23",
+    "angular-translate": "~2.2.0",
+    "angular-route": "~1.2.23",
+    "ng-pdfviewer": "~0.2.1",
+    "pdfjs": "~1.0.473"
+  },
+  "devDependencies": {
+    "bootstrap": "latest",
+    "angularjs": "latest"
+  }
+}
