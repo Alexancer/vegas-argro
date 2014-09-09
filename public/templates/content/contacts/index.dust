@@ -1,0 +1,25 @@
+<div class="container" style="padding: 0 30px 0 30px">
+    <div class="row" style="background-color: #ffffff; border-radius: 0 0 20px 20px; padding: 20px 0 0 0">
+        <div class="col-lg-12">
+            <article style="color: green;">
+                <p>Юридична адреса:</p>
+                <p>
+                    35000, Україна<br/>
+                    Рівненська обл., м.Костопіль, вул.Бурова,17<br/>
+                    тел.: (098)790-26-39<br/>
+                    (066)306-38-60<br/>
+                </p>
+                <p>Реквізити:</p>
+                <p>
+                    Товариство з обмеженою відповідальністю <span style="font-weight: bold">“Вегас-Агро”</span>
+                    Код ЄДРПОУ- 39102358<br/>
+                    Індивідуальний податковий номер  - 391023517093<br/>
+                    Банківські реквізити: <span style="font-weight: bold">АТ “Райффайзен Банк Аваль”</span>,<br/> МФО  380805
+                    р/р 26001435683
+                </p>
+            </article>
+        </div>
+    </div>
+</div>
+
+

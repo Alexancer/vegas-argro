@@ -1,7 +1,46 @@
 <div class="container" style="padding: 0 30px 0 30px">
     <div class="row" style="background-color: #ffffff; border-radius: 0 0 20px 20px; padding: 20px 0 0 0">
-        <div class="col-lg-12">
-
+        <div class="col-lg-4">
+            <img src="/templates/content/substrates/i/i.png" class="img-rounded">
+        </div>
+        <div class="col-lg-8">
+            <table class="table table-striped" style="font-size: 12px">
+                <tr>
+                    <th>Фасування, л</th>
+                    <th>Фракці, мм</th>
+                    <th>рН</th>
+                    <th>Вміст добрив, кг (NPK)</th>
+                    <th>Співвідношення торфів</th>
+                </tr>
+                <tr>
+                    <td>
+                        70л / 250л / 6м3
+                    </td>
+                    <td>Середня 05-25 мм
+                    </td>
+                    <td>5,5-6,0
+                    </td>
+                    <td>1 кг удобрения, NPK 14:16:18+2  МЕ - радиген 50 г, увлажняющий реагент — 2л/м3
+                    </td>
+                    <td>
+                        <table style="font-size: 12px">
+                            <tr>
+                                <td>Eve</td>
+                                <td>Jackson</td>
+                                <td>94</td>
+                            </tr>
+                            <tr>
+                                <td>Фрезерний торф Н2-Н4 45%. Подрібнена торфова маса із середнім ступенем розкладу, гарно зберігає вологу.
+                                </td>
+                                <td>Білий торф Н2-Н4, 0-20 мм 45%. Торф з низьким ступенем розкладу, з високою водо- та повітропроникною здатністю.
+                                </td>
+                                <td>Чорний торф H6-H8 10%. Еталонний матеріал для вирощування овочів, саджанців,  грибів
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
         </div>
     </div>
 </div>

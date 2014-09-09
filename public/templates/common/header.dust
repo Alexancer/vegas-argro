@@ -139,12 +139,12 @@
                 <a href="#/provider">Постачальники</a>
             </li>
             <li class="{contacts}">
-                <a href="#" data-toggle="dropdown">
+                <a href="" data-toggle="dropdown">
                     Контакти<b class="caret"></b>
                 </a>
                 <ul class="dropdown-menu">
                     <li>
-                        <a tabindex="-1" href="/contacts">Контактні дані</a>
+                        <a tabindex="-1" href="#/contacts">Контактні дані</a>
                     </li>
                     <li>
                         <a tabindex="-1" href="#">Запит на прайси</a>
